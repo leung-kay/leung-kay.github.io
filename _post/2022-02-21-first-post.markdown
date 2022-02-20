@@ -1,5 +1,5 @@
 ---
 layout: post
-title: "first_post"
+title: "first post"
 ---
 this is a test post
