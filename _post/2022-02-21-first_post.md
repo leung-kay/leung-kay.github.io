@@ -2,4 +2,4 @@
 layout: post
 title: "first_post"
 ---
-#test post
+this is a test post
